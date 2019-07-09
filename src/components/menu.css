@@ -1,0 +1,59 @@
+.nav-wrapper {
+    background-color: black;
+}
+
+#search{
+margin-right: 320px;
+width: 239px;
+height: 32px;
+line-height: 25px;
+padding: 1px;
+border: none; 
+background-color: #353535;
+}
+
+.breakfast-btn{
+margin-top: 20px;
+margin-right: 10px;
+width: 245px;
+height: 32px;
+
+
+background: #353535;
+
+font-family: 'Barlow';
+font-style: normal;
+font-weight: 900;
+font-size: 21px;
+line-height: 25px;
+
+
+
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.lunch-btn{
+margin-top: 20px;
+margin-right: 10px;
+width: 239px;
+height: 32px;
+
+
+background: #353535;
+
+font-family:  'Barlow';
+font-style: normal;
+font-weight: 900;
+font-size: 21px;
+line-height: 25px;
+/* or 0% */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
