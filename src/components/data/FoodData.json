@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Sandwich jamón y queso",
+        "content": "http://pluspng.com/img-png/sandwich-png--1750.png",
+        "price": "$60.00"
+    },
+
+    {
+        "id": 2,
+        "title": "Hotcakes",
+        "content": "https://lorempixel.com/100/190/nature/6",
+        "price": "$45.00"
+    }, 
+    {
+        "id": 3,
+        "title": "waffles",
+        "content": "https://lorempixel.com/100/190/nature/6",
+        "price": "$40.00"
+    }
+
+    
+]
