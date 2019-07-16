@@ -12,7 +12,7 @@ class Header extends Component {
 
 
 
-<nav
+<nav className = "header-nav"
 
 style={{
     paddingBottom: '100px',

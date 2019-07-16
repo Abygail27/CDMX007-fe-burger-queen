@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Sandwich jamón y queso",
+        "content": "https://purepng.com/public/uploads/large/purepng.com-sandwichfood-slice-salad-tasty-bread-vegetable-health-delicious-breakfast-sandwich-941524618174fdhlh.png",
+        "price": "$60.00"
+    },
+
+    {
+        "id": 2,
+        "title": "Hotcakes",
+        "content": "http://pngimg.com/uploads/pancake/pancake_PNG88.png",
+        "price": "$45.00"
+    }, 
+    {
+        "id": 3,
+        "title": "waffles",
+        "content": "http://pngimg.com/uploads/waffle/waffle_PNG57.png",
+        "price": "$40.00"
+    }
+
+    
+]

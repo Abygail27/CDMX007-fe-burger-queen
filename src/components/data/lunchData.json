@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Hamburguesa doble",
+        "content": "https://bakedpizza.com.co/media/catalog/product/cache/1/image/1200x1200/9df78eab33525d08d6e5fb8d27136e95/h/a/hamburguesa_doble_carne_1.png",
+        "price": "$60.00"
+    },
+
+    {
+        "id": 2,
+        "title": "Hamburguesa de pollo",
+        "content": "http://nelingenieria.com.co/jarris.co/wp-content/uploads/2015/11/HAMBURGUESA-DE-POLLO-jarris.png",
+        "price": "$45.00"
+    }, 
+    {
+        "id": 3,
+        "title": "hamburguesa vegana",
+        "content": "https://www.homeburgerbar.com/sites/default/files/imagenes/categoria_plato/hamburguesa-vegetal-categoria.png",
+        "price": "$40.00"
+    }
+
+    
+]

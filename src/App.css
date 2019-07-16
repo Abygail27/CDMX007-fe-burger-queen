@@ -1,3 +1,29 @@
 .App {
 background-color: black;
 }
+
+.row .col.m6 {
+    width: 20%;
+    margin-left: auto;
+    color: white;  
+}
+
+.pricing_item {
+    display: inline-block;
+
+}
+
+a {
+    padding-right: 30px;
+    color: gray;
+}
+
+.header-nav {
+ 
+    padding-right: 46px;
+}
+
+.button{
+    background-color: black;
+    padding-left: 15%;
+}
